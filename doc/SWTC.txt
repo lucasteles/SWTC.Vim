@@ -1,0 +1,13 @@
+" Vim global plugin for Star Wars crawls
+" Maintainer:	Damian Conway
+" License:	This file is placed in the public domain.
+
+"######################################################################
+"##                                                                  ##
+"##   To use:                                                        ##
+"##                                                                  ##
+"##        :SWTC  <filename>                                         ##
+"##                                                                  ##
+"##   See file 'intro.swtc' for the crawl-specification syntax       ##
+"##                                                                  ##
+"######################################################################
