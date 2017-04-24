@@ -5,7 +5,7 @@ Created by [Damian Conway](https://github.com/thoughtstream)
 
 Depends:
 
-(vim-rng )[https://github.com/dahu/vim-rng/blob/master/plugin/rng.vim]
+[vim-rng](https://github.com/dahu/vim-rng/blob/master/plugin/rng.vim)
 
 
 
